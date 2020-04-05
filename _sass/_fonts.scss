@@ -1,0 +1,35 @@
+// Declare @font-face rule
+
+$font-path: assets/fonts/;
+
+@font-face {
+  font-family: "Scala";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  url("$font-path/ScalaWebPro.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Scala";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  url("$font-path/ScalaWebPro-Ita.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Scala";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  url("$font-path/ScalaWebPro-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Scala";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  url("$font-path/ScalaWebPro-BoldIta.woff") format("woff");
+}
