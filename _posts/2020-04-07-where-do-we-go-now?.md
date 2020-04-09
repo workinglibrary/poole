@@ -18,5 +18,6 @@ Ironi tersebut mencapai puncaknya ketika dalam usaha terakhir perempuan-perempua
 Adegan favorit saya adalah saat seorang ibu yang tadinya penganut kristen— kini telah mengenakan burqa — berkata ke anak laki-lakinya yang tadinya telah berencana membunuh orang-orang muslim di kampungnya. Ibu tersebut menatap anaknya yang tengah terbaring di ranjang. Tatapannya sedih, sedikit putus asa, dan juga seakan memberi tantangan:
 
 *‘Sekarang kau tinggal dengan musuhmu. Apa yang ingin kau lakukan?’
-Film berbahasa Arab yang dibuka dengan adegan ziarah ke makam dan ditutup dengan adegan pemakaman ini meraih banyak penghargaan, di antaranya: Best Picture Toronto Film Festival, Official Selection Sundance Film Festival, dan Best Movie Cannes Film Festival. Untuk alasan kompleksitas konflik, kebersahajaan suasana, dan kesederhanaannya, “Where do We Go Now?” menjadi salah satu film favorit saya sepanjang masa yang harus ditonton paling tidak lebih dari satu kali seumur hidup. [BB]
+
+Film berbahasa Arab yang dibuka dengan adegan ziarah ke makam dan ditutup dengan adegan pemakaman ini meraih banyak penghargaan, di antaranya: Best Picture Toronto Film Festival, Official Selection Sundance Film Festival, dan Best Movie Cannes Film Festival. Untuk alasan kompleksitas konflik, kebersahajaan suasana, dan kesederhanaannya, “Where do We Go Now?” menjadi salah satu film favorit saya sepanjang masa yang harus ditonton paling tidak lebih dari satu kali seumur hidup. **[BB]**
 
