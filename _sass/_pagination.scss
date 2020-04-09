@@ -3,6 +3,7 @@
 // Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
 // there are no more previous or next posts to show.
 
+/*
 .pagination {
   display: block;
   margin: 0 -var(--spacer) var(--spacer);
@@ -27,8 +28,9 @@
 a.pagination-item:hover {
   background-color: var(--border-color);
 }
+*/
 
-@media (min-width: 30em) {
+@media screen {
   .pagination {
     margin: var(--spacer-3) 0;
   }
