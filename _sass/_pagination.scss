@@ -4,7 +4,7 @@
 // there are no more previous or next posts to show.
 
 .pagination {
-  display: inline-block;
+  display: block;
   margin: 0 -var(--spacer) var(--spacer);
   color: var(--gray-500);
   text-align: center;
