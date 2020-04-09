@@ -1,6 +1,38 @@
 // Declare @font-face rule
 
 @font-face {
+  font-family: "Copernicus";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/GalaxieCopernicus-Book.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Copernicus";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("assets/fonts/GalaxieCopernicus-BookItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Copernicus"; 
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/GalaxieCopernicus-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Copernicus";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("assets/fonts/GalaxieCopernicus-BoldItalic.woff") format("woff");
+}
+
+@font-face {
   font-family: "Khartiya";
   font-weight: 400;
   font-style: normal;
