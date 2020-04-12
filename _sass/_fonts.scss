@@ -1,6 +1,38 @@
 // Declare @font-face rule
 
 @font-face {
+  font-family: "Cooper Hewitt";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/cooperhewitt-book.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Cooper Hewitt";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("assets/fonts/cooperhewitt-bookitalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Cooper Hewitt"; 
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/cooperhewitt-bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Cooper Hewitt";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("assets/fonts/cooperhewitt-bolditalic.woff") format("woff");
+}
+
+@font-face {
   font-family: "Copernicus";
   font-weight: 400;
   font-style: normal;
