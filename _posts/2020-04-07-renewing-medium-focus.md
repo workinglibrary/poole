@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Renewing Medium Focus
+title: RENEWING MEDIUM FOCUS
 ---
 
 We’ve decided to make some major changes at Medium.
