@@ -1,6 +1,54 @@
 // Declare @font-face rule
 
 @font-face {
+  font-family: "Alegreya Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/AlegreyaSans-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Alegreya Sans";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("assets/fonts/AlegreyaSans-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Alegreya Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/AlegreyaSans-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Alegreya Sans";
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("assets/fonts/AlegreyaSans-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Alegreya Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/AlegreyaSans-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Alegreya Sans";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("assets/fonts/AlegreyaSans-BoldItalic.woff") format("woff");
+}
+
+@font-face {
   font-family: "Cooper Hewitt";
   font-weight: 400;
   font-style: normal;
